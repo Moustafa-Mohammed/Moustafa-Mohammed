@@ -6,7 +6,7 @@
 I make websites and web applications.
 
 Skills: 
-[⚛️ React](https://reactjs.org/)
+* ⚛️ [React](https://reactjs.org/)
 
 
 * 💻 HTML / CSS / JS
