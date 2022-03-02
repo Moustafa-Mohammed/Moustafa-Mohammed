@@ -8,7 +8,7 @@ I make websites and web applications.
 Skills: 
 * ⚛️ [React](https://reactjs.org/)
 * :electron: `[Redux](https://redux.js.org/)
-* (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANextjs-logo.svg&psig=AOvVaw0-7reVRtqMDP5gSOYnnQTH&ust=1646327318312000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjE8an1p_YCFQAAAAAdAAAAABAD) [NextJs](https://nextjs.org/)
+*  [https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANextjs-logo.svg&psig=AOvVaw0-7reVRtqMDP5gSOYnnQTH&ust=1646327318312000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjE8an1p_YCFQAAAAAdAAAAABAD](https://nextjs.org/)
 * 💻 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) / [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) / [JS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 * 💻 HTML / CSS / JS
