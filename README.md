@@ -8,8 +8,7 @@
 
 Skills: 
 * ⚛️ [React](https://reactjs.org/)
-* :electron: [Redux](https://redux.js.org/) 
-* :electron: [React-redux](https://react-redux.js.org/) 
+* :electron: [Redux](https://redux.js.org/) / [React-redux](https://react-redux.js.org/) 
 * 💻 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) / [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) / [JS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * I’m currently learning [NextJs](https://nextjs.org/)
 
