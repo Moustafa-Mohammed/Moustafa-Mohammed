@@ -22,9 +22,9 @@ Courses:
 * [The Complete JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/) 
 
 
-- 💞️ I’m looking to collaborate with you on websites and web applications.
-- 
-- 📫 How to reach me:
+### 💞️ I’m looking to collaborate with you on websites and web applications.
+
+### 📫 How to reach me:
 [Linkedin](www.linkedin.com/in/moustafa-mohammed) / [Twitter](https://twitter.com/DeveloperMostaf)
 
 
