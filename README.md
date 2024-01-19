@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have been learning to code for two years, skilled in HTML, CSS, TailwindCSS, JavaScript, and React. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues. I am an enthusiastic and detail-oriented Frontend Developer seeking an entry-level position with a company to use my skills in coding to assist in the timely completion of projects.
+A motivated and detail-oriented frontend developer with a love for creating seamless and user-friendly web applications. My skill set includes HTML, CSS, and JavaScript, and I specialize in building dynamic interfaces with React and managing state with Redux. I'm also well-versed in the Next.js framework for efficient and performant web development.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [thedevelopermostafa@gmail.com](mailto:thedevelopermostafa@gmail.com)
